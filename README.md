@@ -1,2 +1,2 @@
-# Python-1
+# Python Basics
 Python Basics
